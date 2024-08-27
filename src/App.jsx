@@ -1,24 +1,32 @@
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import { SearchBar, Filter, Gallery } from "./components";
+import projects from "./data/projects.json";
 function App() {
-  const [filteredProjects, setFilteredProjects] = useState([]);
-  const handleFilterChange = (filters) => {
-    // Aquí implementarías la lógica para filtrar tus proyectos
-    // Por ejemplo:
-    return;
-    // const activeFilters = Object.entries(filters)
-    //   .filter(([_, isActive]) => isActive)
-    //   .map(([tech]) => tech);
+  const [filteredProjects, setFilteredProjects] = useState(projects);
+  const [filters, setFilters] = useState({});
 
-    // if (activeFilters.length === 0) {
-    //   setFilteredProjects(projects);
-    // } else {
-    //   setFilteredProjects(
-    //     projects.filter((project) =>
-    //       activeFilters.some((tech) => project.technologies.includes(tech))
-    //     )
-    //   );
-    // }
+  useEffect(() => {
+    applyFilters();
+  }, [filters]);
+
+  const handleFilterChange = (newFilters) => {
+    setFilters(newFilters);
+  };
+
+  const applyFilters = () => {
+    const activeFilters = Object.entries(filters)
+      .filter(([_, isActive]) => isActive)
+      .map(([tech]) => tech);
+
+    if (activeFilters.length === 0) {
+      setFilteredProjects(projects);
+    } else {
+      setFilteredProjects(
+        projects.filter((project) =>
+          project.technologies.some((tech) => activeFilters.includes(tech))
+        )
+      );
+    }
   };
   return (
     <>

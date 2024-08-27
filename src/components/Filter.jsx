@@ -1,9 +1,9 @@
-import { useState } from "react";
+import { useEffect, useState } from "react";
 
 export const Filter = ({ onFilterChange }) => {
   const [isOpen, setIsOpen] = useState(false);
   const [filters, setFilters] = useState({
-    Technology: {
+    Technologies: {
       "HTML/CSS": false,
       "HTML/CSS/JS": false,
       React: false,
@@ -16,6 +16,17 @@ export const Filter = ({ onFilterChange }) => {
       Guru: false,
     },
   });
+
+  // useEffect(() => {
+  //   // Inicializar filtros basados en las tecnologías únicas de todos los proyectos
+  //   const allTechnologies = [
+  //     ...new Set(projects.flatMap((p) => p.technologies)),
+  //   ];
+  //   const initialFilters = Object.fromEntries(
+  //     allTechnologies.map((tech) => [tech, false])
+  //   );
+  //   setFilters(initialFilters);
+  // }, []);
 
   const toggleDropdown = () => setIsOpen(!isOpen);
 
