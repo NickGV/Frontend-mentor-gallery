@@ -26,17 +26,34 @@ export const Filter = ({ onFilterChange }) => {
   const toggleDropdown = () => setIsOpen(!isOpen);
 
   const handleFilterChange = (category, item) => {
+    // Actualizar el estado de los filtros (filters) utilizando la función 'setFilters'.
     setFilters((prevFilters) => ({
+      // Primero, se mantiene el resto de los filtros existentes usando el operador spread '...'.
       ...prevFilters,
+
+      // Luego, se actualiza la categoría específica del filtro (por ejemplo, 'technologies' o 'difficulties').
       [category]: {
+        // Mantener los filtros existentes dentro de esta categoría específica.
         ...prevFilters[category],
+
+        // Cambiar el estado del filtro específico ('item') dentro de esta categoría.
+        // Si estaba 'true' (activo), se convierte en 'false' (inactivo) y viceversa.
         [item]: !prevFilters[category][item],
       },
     }));
+
+    // Después de actualizar el estado de los filtros, se llama a la función 'onFilterChange'
+    // con los nuevos filtros. Esto es para asegurarse de que el componente padre
+    // (que recibe 'onFilterChange' como prop) también se entere del cambio.
     onFilterChange({
+      // Copia de los filtros actuales.
       ...filters,
+
+      // Actualización de la categoría específica, similar a lo que se hizo en 'setFilters'.
       [category]: {
         ...filters[category],
+
+        // Cambio del estado del filtro específico en la copia local de 'filters'.
         [item]: !filters[category][item],
       },
     });
@@ -60,7 +77,7 @@ export const Filter = ({ onFilterChange }) => {
       </div>
 
       {isOpen && (
-        <div className="origin-top-right absolute right-0 mt-2 w-80 rounded-md shadow-lg bg-white ring-1 ring-black ring-opacity-5">
+        <div className="origin-top-right absolute right-0 mt-2 w-80 md:w-96 rounded-md shadow-lg bg-white ring-1 ring-black ring-opacity-5">
           <div
             className="py-2 grid grid-cols-2"
             role="menu"
@@ -83,7 +100,7 @@ export const Filter = ({ onFilterChange }) => {
 
                     <label
                       htmlFor={`filter-${category}-${item}`}
-                      className="text-gray-700 text-sm cursor-pointer hover:text-black "
+                      className="text-gray-700 text-xs md:text-sm cursor-pointer hover:text-black "
                     >
                       {item}
                     </label>

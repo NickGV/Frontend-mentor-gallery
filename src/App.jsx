@@ -68,9 +68,9 @@ function App() {
 
   return (
     <>
-      <header className="flex justify-between items-center p-4">
+      <header className="flex flex-col md:flex-row justify-between items-center p-4">
         <h1 className="text-3xl font-bold">Frontend Mentor Gallery</h1>
-        <div className="flex gap-4">
+        <div className="flex mt-3 md:mt-0 gap-4">
           <SearchBar />
           <Filter onFilterChange={handleFilterChange} />
         </div>

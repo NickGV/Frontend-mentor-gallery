@@ -4,6 +4,9 @@
 
 body {
   margin: 2rem 20%;
+  @media screen and (max-width: 768px) {
+    margin: 1rem;
+  }
 }
 
 input[type="checkbox"] {
@@ -22,7 +25,6 @@ input[type="checkbox"] + label::before {
   margin: 10px;
   text-align: center;
 }
-
 
 input[type="checkbox"]:checked + label::before {
   border-color: #ffa500;
