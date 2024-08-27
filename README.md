@@ -1,8 +1,32 @@
-# React + Vite
+# Frontend Mentor Gallery
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React-based gallery application built for showing the differents projects I've been made in the web [FrontentMentor](https://www.frontendmentor.io/home).
 
-Currently, two official plugins are available:
+## You can visit the web here: [Live](https://frontend-mentor-gallery-nickgv.netlify.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+#### This is my frontendMentor profile: [Nick](https://www.frontendmentor.io/profile/NickGV)
+
+## Table of Contents
+
+- [Features](#features)
+- [Getting Started](#getting-started)
+- [Project Structure](#project-structure)
+
+## Features
+
+- Display a list of projects with images, titles, and descriptions
+- Filter projects by technologies and difficulties
+- Search for projects by title or description
+
+## Getting Started
+
+1. Clone the repository: `git clone https://github.com/your-username/frontend-mentor-gallery.git`
+2. Install dependencies: `npm install` or `yarn install`
+3. Start the application: `npm start` or `yarn start`
+
+## Project Structure
+
+- `src/`: Source code for the application
+  - `components/`: React components for the application
+  - `data/`: Data files for the application (e.g. projects.json)
+  - `App.jsx`: Main application component
