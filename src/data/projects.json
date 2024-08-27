@@ -25,7 +25,7 @@
     "description": "Base Apparel coming soon page",
     "img": "https://github.com/NickGV/frontend-challenges/raw/main/NEWBIE/base-apparel-coming-soon-master/design/desktop-preview.jpg",
     "technologies": ["HTML/CSS"],
-    "category": "NEWBIE",
+    "difficulty": "NEWBIE",
     "github": "https://github.com/NickGV/frontend-challenges/tree/main/NEWBIE/base-apparel-coming-soon-master",
     "live": "https://base-apparel-comming-soon-nickgv.netlify.app"
   },
@@ -35,7 +35,7 @@
     "description": "Blog preview card",
     "img": "https://github.com/NickGV/frontend-challenges/raw/main/NEWBIE/blog-preview-card-main/design/desktop-preview.jpg",
     "technologies": ["HTML/CSS"],
-    "category": "NEWBIE",
+    "difficulty": "NEWBIE",
     "github": "https://github.com/NickGV/frontend-challenges/tree/main/NEWBIE/blog-preview-card-main",
     "live": "https://blog-preview-card-nickgv.netlify.app/"
   },
@@ -45,7 +45,7 @@
     "description": "FAQ accordion card",
     "img": "https://github.com/NickGV/frontend-challenges/raw/main/NEWBIE/faq-accordion-card-main/design/desktop-preview.jpg",
     "technologies": ["HTML/CSS"],
-    "category": "NEWBIE",
+    "difficulty": "NEWBIE",
     "github": "https://github.com/NickGV/frontend-challenges/tree/main/NEWBIE/faq-accordion-card-main",
     "live": "https://faq-accordion-card-nickgv.netlify.app"
   },
@@ -55,7 +55,7 @@
     "description": "FAQ accordion",
     "img": "https://github.com/NickGV/frontend-challenges/raw/main/NEWBIE/faq-accordion-main/design/desktop-preview.jpg",
     "technologies": ["HTML/CSS/JS"],
-    "category": "NEWBIE",
+    "difficulty": "NEWBIE",
     "github": "https://faq-accordion-nickgv.netlify.app/",
     "live": "https://github.com/NickGV/frontend-challenges/tree/main/NEWBIE/faq-accordion-main"
   },
@@ -65,7 +65,7 @@
     "description": "Four card feature section",
     "img": "https://github.com/NickGV/frontend-challenges/raw/main/NEWBIE/four-card-feature-section-master/design/desktop-preview.jpg",
     "technologies": ["HTML/CSS"],
-    "category": "NEWBIE",
+    "difficulty": "NEWBIE",
     "github": "https://github.com/NickGV/frontend-challenges/tree/main/NEWBIE/four-card-feature-section-master",
     "live": "https://four-card-feature-section-nickgv.netlify.app"
   },
@@ -75,7 +75,7 @@
     "description": "Huddle landing page with single introductory section",
     "img": "https://github.com/NickGV/frontend-challenges/raw/main/NEWBIE/huddle-landing-page-with-single-introductory-section-master/design/desktop-preview.jpg",
     "technologies": ["HTML/CSS"],
-    "category": "NEWBIE",
+    "difficulty": "NEWBIE",
     "github": "https://github.com/NickGV/frontend-challenges/tree/main/NEWBIE/huddle-landing-page-with-single-introductory-section-master",
     "live": "https://huddle-landing-page-nickgv.netlify.app"
   },
@@ -85,7 +85,7 @@
     "description": "Interactive rating component",
     "img": "https://github.com/NickGV/frontend-challenges/raw/main/NEWBIE/interactive-rating-component-main/design/desktop-preview.jpg",
     "technologies": ["HTML/CSS"],
-    "category": "NEWBIE",
+    "difficulty": "NEWBIE",
     "github": "https://github.com/NickGV/frontend-challenges/tree/main/NEWBIE/interactive-rating-component-main",
     "live": "https://interactive-rating-nickgv.netlify.app"
   },
@@ -95,7 +95,7 @@
     "description": "Intro component with sign up form",
     "img": "https://github.com/NickGV/frontend-challenges/raw/main/NEWBIE/intro-component-with-signup-form-master/design/desktop-preview.jpg",
     "technologies": ["HTML/CSS/JS"],
-    "category": "NEWBIE",
+    "difficulty": "NEWBIE",
     "github": "https://github.com/NickGV/frontend-challenges/tree/main/NEWBIE/intro-component-with-signup-form-master",
     "live": "https://intro-component-signup-nickgv.netlify.app"
   },
@@ -105,7 +105,7 @@
     "description": "NFT preview card component",
     "img": "https://github.com/NickGV/frontend-challenges/raw/main/NEWBIE/nft-preview-card-component-main/design/desktop-preview.jpg",
     "technologies": ["HTML/CSS"],
-    "category": "NEWBIE",
+    "difficulty": "NEWBIE",
     "github": "https://github.com/NickGV/frontend-challenges/tree/main/NEWBIE/nft-preview-card-component-main",
     "live": "https://nft-preview-card-nickgv.netlify.app"
   },
@@ -115,7 +115,7 @@
     "description": "Order summary card",
     "img": "https://github.com/NickGV/frontend-challenges/raw/main/NEWBIE/order-summary-component-main/design/desktop-preview.jpg",
     "technologies": ["HTML/CSS"],
-    "category": "NEWBIE",
+    "difficulty": "NEWBIE",
     "github": "https://github.com/NickGV/frontend-challenges/tree/main/NEWBIE/order-summary-component-main",
     "live": "https://order-summary-nickgv.netlify.app"
   },
@@ -125,7 +125,7 @@
     "description": "Ping coming soon page",
     "img": "https://github.com/NickGV/frontend-challenges/raw/main/NEWBIE/ping-coming-soon-page-master/design/desktop-preview.jpg",
     "technologies": ["HTML/CSS/JS"],
-    "category": "NEWBIE",
+    "difficulty": "NEWBIE",
     "github": "https://github.com/NickGV/frontend-challenges/tree/main/NEWBIE/ping-coming-soon-page-master",
     "live": "https://ping-comming-soon-nickgv.netlify.app"
   },
@@ -135,7 +135,7 @@
     "description": "Product preview card component",
     "img": "https://github.com/NickGV/frontend-challenges/raw/main/NEWBIE/product-preview-card-component-main/design/desktop-preview.jpg",
     "technologies": ["HTML/CSS"],
-    "category": "NEWBIE",
+    "difficulty": "NEWBIE",
     "github": "https://github.com/NickGV/frontend-challenges/tree/main/NEWBIE/product-preview-card-component-main",
     "live": "https://product-preview-card-nickgv.netlify.app"
   },
@@ -145,7 +145,7 @@
     "description": "Profile card component",
     "img": "https://github.com/NickGV/frontend-challenges/raw/main/NEWBIE/profile-card-component-main/design/desktop-preview.jpg",
     "technologies": ["HTML/CSS"],
-    "category": "NEWBIE",
+    "difficulty": "NEWBIE",
     "github": "https://github.com/NickGV/frontend-challenges/tree/main/NEWBIE/profile-card-component-main",
     "live": "https://profile-card-nickgv.netlify.app"
   },
@@ -155,7 +155,7 @@
     "description": "QR code component",
     "img": "https://github.com/NickGV/frontend-challenges/raw/main/NEWBIE/qr-code-component-main/design/desktop-preview.jpg",
     "technologies": ["HTML/CSS"],
-    "category": "NEWBIE",
+    "difficulty": "NEWBIE",
     "github": "https://github.com/NickGV/frontend-challenges/tree/main/NEWBIE/qr-code-component-main",
     "live": "https://qr-code-nickgv.netlify.app"
   },
@@ -165,7 +165,7 @@
     "description": "A simple recipe page",
     "img": "https://github.com/NickGV/frontend-challenges/raw/main/NEWBIE/recipe-page-main/design/desktop-preview.jpg",
     "technologies": ["HTML/CSS"],
-    "category": "NEWBIE",
+    "difficulty": "NEWBIE",
     "github": "https://github.com/NickGV/frontend-challenges/tree/main/NEWBIE/recipe-page-main",
     "live": "https://recipe-page-nickgv.netlify.app/"
   },
@@ -175,7 +175,7 @@
     "description": "A simple summary preview component",
     "img": "https://github.com/NickGV/frontend-challenges/raw/main/NEWBIE/results-summary-component-main/design/desktop-preview.jpg",
     "technologies": ["HTML/CSS", "TailwindCss"],
-    "category": "NEWBIE",
+    "difficulty": "NEWBIE",
     "github": "https://github.com/NickGV/frontend-challenges/tree/main/NEWBIE/results-summary-component-main",
     "live": "https://results-summary-component-nickgv.netlify.app"
   },
@@ -185,7 +185,7 @@
     "description": " Single price grid component",
     "img": "https://github.com/NickGV/frontend-challenges/raw/main/NEWBIE/single-price-grid-component-master/design/desktop-preview.jpg",
     "technologies": ["HTML/CSS"],
-    "category": "NEWBIE",
+    "difficulty": "NEWBIE",
     "github": "https://github.com/NickGV/frontend-challenges/tree/main/NEWBIE/single-price-grid-component-master",
     "live": "https://single-price-grid-nickgv.netlify.app"
   },
@@ -194,7 +194,7 @@
     "description": "Social links profile component",
     "img": "https://github.com/NickGV/frontend-challenges/raw/main/NEWBIE/social-links-profile-main/design/desktop-preview.jpg",
     "technologies": ["HTML/CSS"],
-    "category": "NEWBIE",
+    "difficulty": "NEWBIE",
     "github": "https://github.com/NickGV/frontend-challenges/tree/main/NEWBIE/social-links-profile-main",
     "live": "https://social-links-profile-nickgv.netlify.app/"
   },
@@ -204,7 +204,7 @@
     "description": "Social proof section Component",
     "img": "https://github.com/NickGV/frontend-challenges/raw/main/NEWBIE/social-proof-section-master/design/desktop-preview.jpg",
     "technologies": ["HTML/CSS"],
-    "category": "NEWBIE",
+    "difficulty": "NEWBIE",
     "github": "https://github.com/NickGV/frontend-challenges/tree/main/NEWBIE/social-proof-section-master",
     "live": "https://stats-preview-card-nickgv.netlify.app"
   },
@@ -214,7 +214,7 @@
     "description": "Stats preview card component",
     "img": "https://github.com/NickGV/frontend-challenges/raw/main/NEWBIE/stats-preview-card-component-main/design/desktop-preview.jpg",
     "technologies": ["HTML/CSS"],
-    "category": "NEWBIE",
+    "difficulty": "NEWBIE",
     "github": "https://github.com/NickGV/frontend-challenges/tree/main/NEWBIE/stats-preview-card-component-main",
     "live": "https://stats-preview-card-nickgv.netlify.app/"
   },
@@ -224,7 +224,7 @@
     "description": "A Web app that generates random advices provided by an API",
     "img": "https://github.com/NickGV/frontend-challenges/raw/main/JUNIOR/advice-generator-app-main/design/desktop-preview.jpg",
     "technologies": ["HTML/CSS/JS"],
-    "category": "JUNIOR",
+    "difficulty": "JUNIOR",
     "github": "https://github.com/NickGV/frontend-challenges/tree/main/JUNIOR/advice-generator-app-main",
     "live": "https://advice-generator-nickgv.netlify.app"
   },
@@ -234,7 +234,7 @@
     "description": "A web app that calculates the age of a person based on their birthdate",
     "img": "https://github.com/NickGV/frontend-challenges/raw/main/JUNIOR/age-calculator-app-main/design/desktop-preview.jpg",
     "technologies": ["HTML/CSS/JS"],
-    "category": "JUNIOR",
+    "difficulty": "JUNIOR",
     "github": "https://github.com/NickGV/frontend-challenges/tree/main/JUNIOR/age-calculator-app-main",
     "live": "https://age-calculator-nickgv.netlify.app"
   },
@@ -244,7 +244,7 @@
     "description": "Clipboard landing page",
     "img": "https://github.com/NickGV/frontend-challenges/raw/main/JUNIOR/clipboard-landing-page-master/design/desktop-preview.jpg",
     "technologies": ["HTML", "TailwindCss"],	
-    "category": "JUNIOR",
+    "difficulty": "JUNIOR",
     "github": "https://github.com/NickGV/frontend-challenges/tree/main/JUNIOR/clipboard-landing-page-master",
     "live": "https://clipboard-landing-nickgv.netlify.app/"
   },
@@ -254,7 +254,7 @@
     "description": "Contact form with validation",
     "img": "https://github.com/NickGV/frontend-challenges/raw/main/JUNIOR/contact-form-main/design/desktop-preview.jpg",
     "technologies": ["HTML/CSS/JS"],
-    "category": "JUNIOR",
+    "difficulty": "JUNIOR",
     "github": "https://github.com/NickGV/frontend-challenges/tree/main/JUNIOR/contact-form-main",
     "live": "https://contact-form-nickgv.netlify.app/"
   },
@@ -264,7 +264,7 @@
     "description": "Expenses chart component",
     "img": "https://github.com/NickGV/frontend-challenges/raw/main/JUNIOR/expenses-chart-component-main/design/desktop-preview.jpg",
     "technologies": ["HTML/CSS"],
-    "category": "JUNIOR",
+    "difficulty": "JUNIOR",
     "github": "https://github.com/NickGV/frontend-challenges/tree/main/JUNIOR/expenses-chart-component-main",
     "live": "https://expenses-chart-nickgv.netlify.app/"
   },
@@ -274,7 +274,7 @@
     "description": "Fylo data storage component dark theme and validation",
     "img": "https://github.com/NickGV/frontend-challenges/raw/main/JUNIOR/fylo-dark-theme-landing-page/design/desktop-preview.jpg",
     "technologies": ["HTML/CSS/JS"],
-    "category": "JUNIOR",
+    "difficulty": "JUNIOR",
     "github": "https://github.com/NickGV/frontend-challenges/tree/main/JUNIOR/fylo-dark-theme-landing-page",
     "live": "https://fylo-dark-theme-nickgv.netlify.app/"
   },
@@ -284,7 +284,7 @@
     "description": "Fylo data storage component",
     "img": "https://github.com/NickGV/frontend-challenges/raw/main/JUNIOR/fylo-data-storage-component-master/design/desktop-preview.jpg",
     "technologies": ["HTML/CSS"],
-    "category": "JUNIOR",
+    "difficulty": "JUNIOR",
     "github": "https://github.com/NickGV/frontend-challenges/tree/main/JUNIOR/fylo-data-storage-component-master",
     "live": "https://fylo-storage-nickgv.netlify.app/"
   },
@@ -294,7 +294,7 @@
     "description": "Fylo landing page with two column layout",
     "img": "https://github.com/NickGV/frontend-challenges/raw/main/JUNIOR/fylo-landing-page-with-two-column-layout-master/design/desktop-preview.jpg",
     "technologies": ["HTML/CSS"],
-    "category": "JUNIOR",
+    "difficulty": "JUNIOR",
     "github": "https://github.com/NickGV/frontend-challenges/tree/main/JUNIOR/fylo-landing-page-with-two-column-layout-master",
     "live": "https://fylo-with-2-column-nickgv.netlify.app/"
   },
@@ -304,7 +304,7 @@
     "description": "Huddle landing page with alternating feature blocks",
     "img": "https://github.com/NickGV/frontend-challenges/raw/main/JUNIOR/huddle-landing-page-with-alternating-feature-blocks-master/design/desktop-preview.jpg",
     "technologies": ["HTML/CSS"],
-    "category": "JUNIOR",
+    "difficulty": "JUNIOR",
     "github": "https://github.com/NickGV/frontend-challenges/tree/main/JUNIOR/huddle-landing-page-with-alternating-feature-blocks-master",
     "live": "https://huddle-landing-nickgv.netlify.app/"
   },
@@ -314,7 +314,7 @@
     "description": "Interactive pricing component with slider",
     "img": "https://github.com/NickGV/frontend-challenges/raw/main/JUNIOR/interactive-pricing-component-main/design/desktop-preview.jpg",
     "technologies": ["HTML/CSS/JS"],
-    "category": "JUNIOR",
+    "difficulty": "JUNIOR",
     "github": "https://github.com/NickGV/frontend-challenges/tree/main/JUNIOR/interactive-pricing-component-main",
     "live": "https://interactive-pricing-nickgv.netlify.app/"
   },
@@ -324,7 +324,7 @@
     "description": "Intro section with dropdown navigation",
     "img": "https://github.com/NickGV/frontend-challenges/raw/main/JUNIOR/intro-section-with-dropdown-navigation-main/design/desktop-preview.jpg",
     "technologies": ["HTML/CSS/JS"],
-    "category": "JUNIOR",
+    "difficulty": "JUNIOR",
     "github": "https://github.com/NickGV/frontend-challenges/tree/main/JUNIOR/intro-section-with-dropdown-navigation-main",
     "live": "https://intro-section-dropdown-nickgv.netlify.app/"
   },
@@ -334,7 +334,7 @@
     "description": "News homepage",
     "img": "https://github.com/NickGV/frontend-challenges/raw/main/JUNIOR/news-homepage-main/design/desktop-preview.jpg",
     "technologies": ["HTML/CSS"],
-    "category": "JUNIOR",
+    "difficulty": "JUNIOR",
     "github": "https://github.com/NickGV/frontend-challenges/tree/main/JUNIOR/news-homepage-main",
     "live": "https://news-homepage-nickgv.netlify.app/"
   },
@@ -344,7 +344,7 @@
     "description": "Newsletter sign-up form with success message",
     "img": "https://github.com/NickGV/frontend-challenges/raw/main/JUNIOR/newsletter-sign-up-with-success-message-main/design/desktop-preview.jpg",
     "technologies": ["HTML/CSS/JS"],
-    "category": "JUNIOR",
+    "difficulty": "JUNIOR",
     "github": "https://github.com/NickGV/frontend-challenges/tree/main/JUNIOR/newsletter-sign-up-with-success-message-main",
     "live": "https://newletter-sigup-nickgv.netlify.app"
   },
@@ -354,7 +354,7 @@
     "description": "Notifications page with mark as read functionality",
     "img": "https://github.com/NickGV/frontend-challenges/raw/main/JUNIOR/notifications-page-main/design/desktop-preview.jpg",
     "technologies": ["HTML/CSS/JS"],
-    "category": "JUNIOR",
+    "difficulty": "JUNIOR",
     "github": "https://github.com/NickGV/frontend-challenges/tree/main/JUNIOR/notifications-page-main",
     "live": "https://notifications-page-nickgv.netlify.app/"
   },
@@ -364,7 +364,7 @@
     "description": "Pricing component with toggle",
     "img": "https://github.com/NickGV/frontend-challenges/raw/main/JUNIOR/pricing-component-with-toggle/design/desktop-preview.jpg",
     "technologies": ["HTML/CSS/JS"],
-    "category": "JUNIOR",
+    "difficulty": "JUNIOR",
     "github": "https://github.com/NickGV/frontend-challenges/tree/main/JUNIOR/pricing-component-with-toggle",
     "live": "https://pricing-with-toggle-nickgv.netlify.app/"
   },
@@ -374,7 +374,7 @@
     "description": "Sunnyside agency landing page",
     "img": "https://github.com/NickGV/frontend-challenges/raw/main/JUNIOR/sunnyside-agency-landing-page-main/design/desktop-preview.jpg",
     "technologies": ["HTML/CSS/JS"],
-    "category": "JUNIOR",
+    "difficulty": "JUNIOR",
     "github": "https://github.com/NickGV/frontend-challenges/tree/main/JUNIOR/sunnyside-agency-landing-page-main",
     "live": "https://sunnyside-landing-nickgv.netlify.app/"
   },
@@ -384,7 +384,7 @@
     "description": "Testimonials grid section",
     "img": "https://github.com/NickGV/frontend-challenges/raw/main/JUNIOR/testimonials-grid-section-main/design/desktop-preview.jpg",
     "technologies": ["HTML/CSS"],
-    "category": "JUNIOR",
+    "difficulty": "JUNIOR",
     "github": "https://github.com/NickGV/frontend-challenges/tree/main/JUNIOR/testimonials-grid-section-main",
     "live": "https://testimonials-grid-nickgv.netlify.app/"
   },
@@ -394,7 +394,7 @@
     "description": "Time tracking dashboard",
     "img": "https://github.com/NickGV/frontend-challenges/raw/main/JUNIOR/time-tracking-dashboard-main/design/desktop-preview.jpg",
     "technologies": ["HTML/CSS/JS"],
-    "category": "JUNIOR",
+    "difficulty": "JUNIOR",
     "github": "https://github.com/NickGV/frontend-challenges/tree/main/JUNIOR/time-tracking-dashboard-main",
     "live": "https://time-tracking-dashoard-nickgv.netlify.app"
   },
@@ -404,7 +404,7 @@
     "description": "Tip calculator app which can calculate the tip amount based on the bill amount and the tip percentage",
     "img": "https://github.com/NickGV/frontend-challenges/raw/main/JUNIOR/tip-calculator-app-main/design/desktop-preview.jpg",
     "technologies": ["HTML/CSS/JS"],
-    "category": "JUNIOR",
+    "difficulty": "JUNIOR",
     "github": "https://github.com/NickGV/frontend-challenges/tree/main/JUNIOR/tip-calculator-app-main",
     "live": "https://tip-calculator-app-nickgv.netlify.app/"
   },
@@ -414,7 +414,7 @@
     "description": "Launch countdown timer with animations",
     "img": "https://github.com/NickGV/frontend-challenges/raw/main/INTERMEDIATE/Launch-countdown-timer/design/desktop-preview.jpg",
     "technologies": ["REACT"],
-    "category": "INTERMEDIATE",
+    "difficulty": "INTERMEDIATE",
     "github": "https://github.com/NickGV/frontend-challenges/tree/main/INTERMEDIATE/Launch-countdown-timer",
     "live": "https://launch-countdown-timer-nickgv.netlify.app/"
   }

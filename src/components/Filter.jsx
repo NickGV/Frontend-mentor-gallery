@@ -1,32 +1,27 @@
 import { useEffect, useState } from "react";
+import projects from "../data/projects.json";
 
 export const Filter = ({ onFilterChange }) => {
   const [isOpen, setIsOpen] = useState(false);
-  const [filters, setFilters] = useState({
-    Technologies: {
-      "HTML/CSS": false,
-      "HTML/CSS/JS": false,
-      React: false,
-    },
-    Difficulty: {
-      Newbie: false,
-      Junior: false,
-      Intermediate: false,
-      Advanced: false,
-      Guru: false,
-    },
-  });
+  const [filters, setFilters] = useState({});
 
-  // useEffect(() => {
-  //   // Inicializar filtros basados en las tecnologías únicas de todos los proyectos
-  //   const allTechnologies = [
-  //     ...new Set(projects.flatMap((p) => p.technologies)),
-  //   ];
-  //   const initialFilters = Object.fromEntries(
-  //     allTechnologies.map((tech) => [tech, false])
-  //   );
-  //   setFilters(initialFilters);
-  // }, []);
+  useEffect(() => {
+    const allTechnologies = [
+      ...new Set(projects.flatMap((p) => p.technologies)),
+    ];
+    const allDifficulties = [...new Set(projects.map((p) => p.difficulty))];
+    const initialFilters = {
+      technologies: allTechnologies.reduce((acc, tech) => {
+        acc[tech] = false;
+        return acc;
+      }, {}),
+      difficulties: allDifficulties.reduce((acc, difficulty) => {
+        acc[difficulty] = false;
+        return acc;
+      }, {}),
+    };
+    setFilters(initialFilters);
+  }, []);
 
   const toggleDropdown = () => setIsOpen(!isOpen);
 
@@ -38,7 +33,13 @@ export const Filter = ({ onFilterChange }) => {
         [item]: !prevFilters[category][item],
       },
     }));
-    onFilterChange(filters);
+    onFilterChange({
+      ...filters,
+      [category]: {
+        ...filters[category],
+        [item]: !filters[category][item],
+      },
+    });
   };
 
   return (
